@@ -6,3 +6,4 @@ Python Alogorithm Study
 |210108|k번째 약수|O| | |for else 구문|
 |210108|k번째 수|O| | | |
 |210111|Problem3|O| | | |
+|
