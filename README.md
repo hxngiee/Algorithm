@@ -19,4 +19,5 @@ Python Alogorithm Study
 |Date|Problem|Check1|Check2|Check3|Note|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |210207|회문 문자열 검사|*| | |대소문자 구별(.upper)|
+|210209|숫자만 추출|O| | |변수.isdecimal() -> 0부터 9까지 숫자만 확인 & 변수.isdigit -> 숫자형태 다 찾음 |
 |210207|제목|O| | | |
