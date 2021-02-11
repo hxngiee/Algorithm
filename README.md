@@ -19,6 +19,6 @@ Python Alogorithm Study
 |Date|Problem|Check1|Check2|Check3|Note|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |210207|회문 문자열 검사|*| | |대소문자 구별(.upper)|
-|210209|숫자만 추출|O| | |변수.isdecimal() -> 0부터 9까지 숫자만 확인 & 변수.isdigit -> 숫자형태 다 찾음 |
+|210209|숫자만 추출|O| | |변수.isdecimal() -> 0부터 9까지 숫자만 확인(return True or False)  변수.isdigit -> 숫자형태 다 찾음(return True or False) |
 |210210|카드 역배치|*| | |index swap|
-|210210|두 리스트 합치기|O| | ||
+|210210|두 리스트 합치기|O| | |이미 정렬된 두 데이터를 합할 때(포인터 활용)|
