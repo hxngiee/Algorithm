@@ -22,3 +22,4 @@ Python Alogorithm Study
 |210209|숫자만 추출|O| | |변수.isdecimal() -> 0부터 9까지 숫자만 확인(return True or False)  변수.isdigit -> 숫자형태 다 찾음(return True or False) |
 |210210|카드 역배치|*| | |index swap|
 |210210|두 리스트 합치기|O| | |이미 정렬된 두 데이터를 합할 때(포인터 활용)|
+|210212|수의 합|*| | |index 활용|
