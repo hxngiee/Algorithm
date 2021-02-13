@@ -23,3 +23,4 @@ Python Alogorithm Study
 |210210|카드 역배치|*| | |index swap|
 |210210|두 리스트 합치기|O| | |이미 정렬된 두 데이터를 합할 때(포인터 활용)|
 |210212|수의 합|*| | |index 활용|
+|210213|격자판 최대합|X| | |List Comprehension|
