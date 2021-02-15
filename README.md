@@ -25,3 +25,4 @@ Python Alogorithm Study
 |210212|수의 합|*| | |index 활용|
 |210213|격자판 최대합|X| | |List Comprehension|
 |210214|사과나무|*| | |index 활용|
+|210215|곳감|X| | |pop(default는 뒤, 앞도가능), append(뒤에 붙임), insert(앞에 붙임)|
