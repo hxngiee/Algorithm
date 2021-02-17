@@ -1,7 +1,12 @@
 # Algorithm
 Python Alogorithm Study
 
-## 코드구현력 기르기
+## Table of contents
+- [Inflearn](#Inflearn)
+- [이코테](#이코테)
+
+## Inflearn
+### 코드구현력 기르기
 |Date|Problem|Check1|Check2|Check3|Note|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |210108|k번째 약수|O| | |for else 구문|
@@ -15,7 +20,7 @@ Python Alogorithm Study
 |210205|주사위 게임|O| | |정렬과 비교|
 |210207|점수계산|O| | ||
 
-## 탐색&시뮬레이션(string, 1차원, 2차원 리스트 탐색)
+### 탐색&시뮬레이션(string, 1차원, 2차원 리스트 탐색)
 |Date|Problem|Check1|Check2|Check3|Note|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |210207|회문 문자열 검사|*| | |대소문자 구별(.upper)|
@@ -27,3 +32,11 @@ Python Alogorithm Study
 |210214|사과나무|*| | |index 활용|
 |210215|곳감|X| | |pop(default는 뒤, 앞도가능), append(뒤에 붙임), insert(앞에 붙임)|
 |210216|봉우리|X| | |padding, all|
+|210217|스도쿠 검사|X| | ||
+
+
+## 이코테
+### 탐색&시뮬레이션(string, 1차원, 2차원 리스트 탐색)
+|Date|Problem|Check1|Check2|Check3|Note|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|210207|회문 문자열 검사|*| | |대소문자 구별(.upper)|
