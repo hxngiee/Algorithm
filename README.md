@@ -23,7 +23,7 @@ Python Alogorithm Study
 ### 탐색&시뮬레이션(string, 1차원, 2차원 리스트 탐색)
 |Date|Problem|Check1|Check2|Check3|Note|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|210207|회문 문자열 검사|*| | |대소문자 구별(.upper)|
+|210207|회문 문자열 검사|*| | |대소문 자 구별(.upper)|
 |210209|숫자만 추출|O| | |변수.isdecimal() -> 0부터 9까지 숫자만 확인(return True or False)  변수.isdigit -> 숫자형태 다 찾음(return True or False) |
 |210210|카드 역배치|*| | |index swap|
 |210210|두 리스트 합치기|O| | |이미 정렬된 두 데이터를 합할 때(포인터 활용)|
@@ -32,11 +32,12 @@ Python Alogorithm Study
 |210214|사과나무|*| | |index 활용|
 |210215|곳감|X| | |pop(default는 뒤, 앞도가능), append(뒤에 붙임), insert(앞에 붙임)|
 |210216|봉우리|X| | |padding, all|
-|210217|스도쿠 검사|X| | ||
+|210217|스도쿠 검사|X| | |sum(list)|
 
 
 ## 이코테
 ### 탐색&시뮬레이션(string, 1차원, 2차원 리스트 탐색)
 |Date|Problem|Check1|Check2|Check3|Note|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|210207|회문 문자열 검사|*| | |대소문자 구별(.upper)|
+|210216|거스름돈 문제|O| | ||
+|210217|상하좌우|*| | ||
