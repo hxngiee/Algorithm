@@ -2,8 +2,21 @@
 Python Alogorithm Study
 
 ## Table of contents
+- [Intermediate-Python](#Intermediate-Python)
 - [Inflearn](#Inflearn)
 - [이코테](#이코테)
+
+## Intermediate-Python
+### 실전에서 유용한 표준 라이브러리
+|라이브러리|기능|
+|:---:|:---:|
+|내장 함수|기본 입출력 함수부터 정렬 함수까지 기본적인 함수 제공|
+|itertools|반복되는 형태의 데이터를 처리하기 위한 유용한 기능 제공(특히 순열과 조합 라이브러리가 자주 사용됨)|
+|heapq|Heap 자료구조 제공(일반적으로 우선순위 큐 기능을 구현하기 위해 제공)|
+|bisect|이진 탐색 기능 제공|
+|collections|Deque, Counter 등의 유용한 자료구조 포함|
+|math|필수적인 수학적 기능 제공(팩토리얼, 제곱근, 최대공약수)|
+
 
 ## Inflearn
 ### 코드구현력 기르기
