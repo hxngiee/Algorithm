@@ -1,4 +1,4 @@
-# N = int(input())
+N = int(input())
 
 cnt = 0
 lst = []
@@ -13,20 +13,16 @@ print(lst)
 
 
 
-# cnt = 0
-# for i in range(6):
-#     if i%10 == 3:
-#         cnt+=1
-#     for j in range(60):
-#         if j%10 == 3:
-#             cnt+=1
-#         elif j//3>=10 and k//3<=13:
-#             cnt+=1
-#         for k in range(60):
-#             if k%10 == 3:
-#                 cnt += 1
-#             elif k//3 >= 10 and k//3 <=13:
-#                 cnt += 1
-#
-# print('%d:%d:%d'%(i,j,k))
-# print(cnt+18)
+cnt = 0
+for i in range(N+1):
+    if i in lst:
+        cnt += 60*60
+    else:
+        for j in range(60):
+            if j in lst:
+                cnt += 60
+            else:
+                cnt += 15
+
+print('%d:%d:%d'%(i,j,k))
+print(cnt)
