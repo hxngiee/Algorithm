@@ -15,6 +15,7 @@ def Count(capacity):
 N, M = map(int, input().split())
 
 Music = list(map(int,input().split()))
+maxx = max(Music)
 
 lt = 1
 rt = sum(Music)
@@ -27,7 +28,7 @@ while lt<=rt:
     # 필요한 dvd 한장의 용량을 mid로 전달해줄 때
     # N곡을 다 저장하려면 dvd 몇장이 필요한지 return해주는 함수
 
-    if Count(mid)<=M:
+    if mid >= maxx and Count(mid)<=M:
         res = mid
         rt = mid - 1
     else:
