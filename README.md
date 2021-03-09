@@ -5,6 +5,7 @@ Python Alogorithm Study
 - [Intermediate-Python](#Intermediate-Python)
 - [Inflearn](#Inflearn)
 - [이코테](#이코테)
+- [Programmers](#Programmers)
 
 ## Intermediate-Python
 ### 실전에서 유용한 표준 라이브러리
@@ -63,6 +64,7 @@ Python Alogorithm Study
 |210301|회의실 배정|*| | |sort(lambda x : (x[1],x[0])|
 |210301|씨름 선수|*| | ||
 |210303|창고정리|O| | ||
+|210309|침몰하는 타이타닉|O| | |while lst(참이면 실행, 비어있음 멈춤), list와 deque의 차이 |
 
 
 ## 이코테
@@ -79,3 +81,9 @@ Python Alogorithm Study
 |210303|왕실의 나이트|*| | ||
 |210304|게임 개발|X| | ||
 |210306|음료수 얼려 먹기|*| | ||
+
+
+## Programmers
+|Date|Problem|Check1|Check2|Check3|Note|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|210308|h-index|*| | |num_iter+1|
