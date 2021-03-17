@@ -11,7 +11,8 @@ alpha = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R'
 # name = 'JAZ'
 # name = 'JEROEN'
 # name = 'AAA'
-name = 'ZZZ'
+# name = 'ZZZ'
+name = 'M'
 # flag = False
 answer = 0
 
