@@ -89,7 +89,7 @@ Python Alogorithm Study
 |210318|개미 전사|*| | |다이나믹 프로그래밍|
 |210318|바닥공사|X| | |다이나믹 프로그래밍|
 |210322|효율적인 화폐 구성|*| | |다이나믹 프로그래밍|
-
+|210327|전보|O| | |dijkstra 알고리즘|
 
 ## Programmers
 |Date|Problem|Check1|Check2|Check3|Note|
