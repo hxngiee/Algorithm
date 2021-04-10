@@ -1,3 +1,11 @@
-import sys
+n = int(input())
+data = list(map(int,input().split))
+data.sort()
 
-sys.stdin = open('input.txt','r')
+target = 1
+for x in data:
+    if target < x:
+        break
+    target += x
+
+print(target)
