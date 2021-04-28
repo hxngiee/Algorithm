@@ -111,3 +111,4 @@ Python Alogorithm Study
 |210308|h-index|*| | |num_iter+1|
 |210308|조이스틱|*| | ||
 |210428|완주하지 못한 선수|*| | |zip|
+|210428|전화번호 목록|*| | |zip, if p2.startswith(p1)|
