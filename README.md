@@ -115,3 +115,4 @@ Python Alogorithm Study
 |210429|가장 큰 수|X| | |list(map(str,array)), str*number, ''.join(array)|
 |210503|다리를 지나는 트럭|X| | |.pop(index), [0]*bridge_length|
 |210504|기능개발|O| | ||
+|210506|프린터|O| | |any()|
