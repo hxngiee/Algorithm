@@ -116,3 +116,4 @@ Python Alogorithm Study
 |210503|다리를 지나는 트럭|X| | |.pop(index), [0]*bridge_length|
 |210504|기능개발|O| | ||
 |210506|프린터|O| | |any()|
+|210507|주식가격|O| | ||
