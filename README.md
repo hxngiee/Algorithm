@@ -117,5 +117,5 @@ Python Alogorithm Study
 |210504|기능개발|O| | ||
 |210506|프린터|O| | |any()|
 |210507|주식가격|O| | ||
-|210508|위장|*| | ||
+|210508|위장|*| | |Counter([kind for name, kind in clothes])|
 |210509|소수 찾기|O| | |itertools.permutations(arr,n)|
