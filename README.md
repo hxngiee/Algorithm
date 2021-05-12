@@ -119,3 +119,4 @@ Python Alogorithm Study
 |210507|주식가격|O| | ||
 |210508|위장|*| | |Counter([kind for name, kind in clothes])|
 |210509|소수 찾기|O| | |itertools.permutations(arr,n)|
+|210512|더 맵게|*| | |heapq: 가지고 있는 요소를 push,pop할때마다 자동 정렬|
