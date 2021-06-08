@@ -112,7 +112,7 @@ Python Alogorithm Study
 |210308|조이스틱|*| | ||
 |210428|완주하지 못한 선수|*|O| |zip|
 |210428|전화번호 목록|*|*| |zip, if p2.startswith(p1)|
-|210429|가장 큰 수|X| | |list(map(str,array)), str*number, ''.join(array)|
+|210429|가장 큰 수|X|X| |list(map(str,array)), str*number, ''.join(array)|
 |210503|다리를 지나는 트럭|X| | |.pop(index), [0]*bridge_length|
 |210504|기능개발|O| | ||
 |210506|프린터|O| | |any()|
